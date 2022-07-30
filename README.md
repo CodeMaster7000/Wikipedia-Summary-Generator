@@ -1,7 +1,7 @@
 # Wikipedia Summary Generator
 
 ## About
-A program written in Python with Tkinter that makes it easy to access and parse data from “wikipedia.org”. 
+A program written in Python with Tkinter that summarises data from “wikipedia.org”. 
 
 ## Function & Instructions
 
