@@ -9,4 +9,4 @@ Wikipedia is a Python library that makes it easy to access and parse data from t
 
 NOTE: You must have the Wikipedia module installed in order for this program to work. To do this, just type `pip install Wikipedia` in terminal.
 
-To run the program, run `Python 3 Wikipedia Summary Generator` in a terminal if you have Python 3.
+To run the program, run `python3 Wikipedia Summary Generator.py` in a terminal if you have Python 3.
